@@ -1,0 +1,5 @@
+{
+  "name": "ResumeIQ - RAG Resume Parser",
+  "description": "An intelligent resume analysis tool using Gemini 2.5 Flash to extract structured data and enable RAG-based chat with candidate profiles.",
+  "requestFramePermissions": []
+}
